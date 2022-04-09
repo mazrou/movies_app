@@ -1,3 +1,3 @@
 # movies_app
 
-## just a simples hoy to use FlexLayout
+just a simples how to use FlexLayout
